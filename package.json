@@ -1,5 +1,5 @@
 {
-  "name": "random-material-color",
+  "name": "@ffsinit/random-material-color",
   "version": "1.0.3",
   "description": "Generate a Random Color from Google Material UI palette",
   "main": "dist/randomColor.js",
@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/isuru88/random-material-color.git"
+    "url": "https://github.com/sourenaraya/random-material-color.git"
   },
   "keywords": [
     "Material",
     "Color",
-    "UI"
+    "UI",
+    "vuetifyjs"
   ],
   "author": "Isuru Jayasooriya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/isuru88/random-material-color/issues"
+    "url": "https://github.com/sourenaraya/random-material-color/issues"
   },
-  "homepage": "https://github.com/isuru88/random-material-color",
+  "homepage": "https://github.com/sourenaraya/random-material-color",
   "dependencies": {
     "murmurhash-js": "^1.0.0"
   },

@@ -1,5 +1,9 @@
 # random-material-color
 
+### About this fork
+This version returns color class instead of HEX color code. I am usnig this in my Vuetifyjs projects.
+for example, instead of `#FF8A80` it will return `red accent-1`
+
 ### About
 This is an easy to use random color generator which uses the Google Material UI color palette. It also uses [murmurhash](https://github.com/mikolalysenko/murmurhash-js) to generate colors for specific strings. 
 
